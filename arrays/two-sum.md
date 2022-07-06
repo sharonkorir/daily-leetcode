@@ -26,18 +26,8 @@ You can return the answer in any order.
 `Example 2:`
 
 ```python
-Input: nums = [3,2,4], target = 6
-Output: [1,2]-
-```
-
----
-
-### Given Code
-
-
-```python
-def is_anagram(test, original):
-    pass
+- Input: nums = [3,2,4], target = 6
+- Output: [1,2]
 ```
 
 ---
